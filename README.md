@@ -1,5 +1,5 @@
 ## ⚡Projeto feito com as linguagens:
-- HTMl
+- HTML
 - CSS
 - JavaScript
 
